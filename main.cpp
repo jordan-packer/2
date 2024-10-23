@@ -1,10 +1,10 @@
 #include <iostream> 
 using namespace std;
-
+int add (int a, int b)
 
 int main(){
 
-    cout<<"hello World\n";
+    cout<<"why is this not working\n";
 
 
     return 0;
